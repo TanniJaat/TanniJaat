@@ -2,7 +2,8 @@
 - 👀 I’m interested in learing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tprimegamers@gmail.com
+- 📫 How to reach me er.tanishkdhaka@gmail.com
+
 
 <!---
 TanniJaat/TanniJaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
