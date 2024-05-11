@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TanniJaat
 - 👀 I’m interested in learing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN 
 - 📫 How to reach me er.tanishkdhaka@gmail.com
 
 
