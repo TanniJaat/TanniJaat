@@ -19,9 +19,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannijaat&layout=compact&theme=radical)
 ## Footer
 
 *Profile views*: ![Profile Views](https://komarev.com/ghpvc/?username=tannijaat&color=blueviolet)
